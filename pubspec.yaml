@@ -1,0 +1,24 @@
+name: barber_reservation
+description: A Flutter app for barber reservation.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/barber1.jpg
+    - assets/images/barber2.jpg
+    - assets/images/barber3.jpg
+
+
+
